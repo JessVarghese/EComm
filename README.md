@@ -26,7 +26,7 @@
   ## Usage
   This application utilizes Insomnia to view and update the database. Please reference the video demo below.
 
-  [VIDEO DEMO](https://watch.screencastify.com/v/AOuUzfiLXdWscRGgYCdr)
+  [VIDEO DEMO](https://watch.screencastify.com/v/hGOA2brjR1tJIzrSN9C3)
  
   ## Technologies
   * Express.js
